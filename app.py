@@ -148,6 +148,5 @@ elif selected =="Prediction":
             st.write(f"**💳 Recharge Ammount :**₹{recharge}Hours")
 
 
-st.caption("Developed By DigiCoders Technologies ")
-st.caption("Chandrama Prasad Yadav")
+st.caption("Developed By Saurabh Sahu")
 
